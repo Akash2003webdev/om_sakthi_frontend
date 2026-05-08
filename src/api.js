@@ -1,5 +1,5 @@
 // src/api.js — All API calls to Express backend (replaces supabase)
-const BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:5000/api";
+const BASE_URL = import.meta.env.VITE_API_URL;
 
 // ─── Auth helpers ────────────────────────────────────────────
 const getToken = () => sessionStorage.getItem("osp-token");
