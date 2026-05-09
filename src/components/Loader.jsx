@@ -30,7 +30,7 @@ export default function Loader({ onComplete }) {
 
         {/* Name */}
         <div style={{ textAlign: 'center' }}>
-          <div className="font-display font-semibold tracking-[0.16em] uppercase" style={{ fontSize: '1.375rem', color: 'var(--text)', marginBottom: '0.25rem' }}>
+          <div className="font-display Ak font-semibold tracking-[0.16em] uppercase" style={{ fontSize: '1.375rem', color: 'var(--text)', marginBottom: '0.25rem' }}>
             Om Sakthi
           </div>
           <div className="label" style={{ letterSpacing: '0.4em', color: 'var(--text4)' }}>Printers · Sattur</div>

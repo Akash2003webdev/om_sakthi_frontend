@@ -115,11 +115,11 @@ export default function Navbar() {
               style={{ width: 50, height: 50, borderRadius: '50%', display: 'block' }}
             />
             <div className="leading-none">
-              <div className="font-display font-semibold text-lg text-gold-gradient">
+              <div className="font-display Ak font-semibold text-lg text-[25px] text-gold-gradient">
                 Om Sakthi
               </div>
               <div
-                className="font-body text-[10px] tracking-widest uppercase opacity-80"
+                className="font-body text-[15px] tracking-widest uppercase opacity-80"
                 style={{ color: "var(--text-main)" }}
               >
                 Printers
